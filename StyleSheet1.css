@@ -1,9 +1,9 @@
 ﻿body {
     background-color: cornflowerblue;
     background-image: url("NMMU.JPG");
-    background-repeat: repeat-y;
+    background-repeat: fixed;
 }  
- * {text-align: right; color:indigo;}
+ * {text-align: center; color:indigo;}
 h1, h2 {
     text-align: center;
     color: peachpuff;
