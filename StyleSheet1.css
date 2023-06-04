@@ -3,7 +3,7 @@
     background-image: url("NMMU.JPG");
     background-repeat: repeat-y;
 }  
- * {text-align: center; color:indigo;}
+ * {text-align: right; color:indigo;}
 h1, h2 {
     text-align: center;
     color: peachpuff;
