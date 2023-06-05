@@ -3,7 +3,16 @@
     background-image: url("NMMU.JPG");
     background-repeat: fixed;
 }  
- * {text-align: center; color:indigo;}
+ * {
+     text-align: center; 
+     color:indigo;
+     background-color: #EDECE5:
+     width: 800px; 
+     margin: auto;
+     padding-top: 30px;
+     color: #2E475D;
+       
+    }
 h1, h2 {
     text-align: center;
     color: peachpuff;
