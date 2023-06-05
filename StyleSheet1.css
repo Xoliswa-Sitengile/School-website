@@ -1,17 +1,14 @@
 ﻿body {
     background-color: cornflowerblue;
     background-image: url("NMMU.JPG");
-    background-repeat: fixed;
+    background-repeat: repeat-y;
 }  
- * {
-     text-align: center; 
-     color:white;
-     background-color:white ;  
-    }
+ * {text-align:right; color:indigo;}
 h1, h2 {
     text-align: center;
     color: peachpuff;
     text-decoration-line: overline underline;
     background-color:black;
 }
+
 
